@@ -2,13 +2,13 @@
   <h1 class="header title is-1"> &#x1F988; Ashley Tierney Portfolio</h1>
   <div class="home backdrop homepage-contain columns is-multiline ml-1 mr-1 p-1 ">
 
-      <div class="images column is-one-quarter ">
+      <div class="images column is-one-quarter-desktop is-one-third-mobile is-one-third-tablet">
         <section class="block m-1 has-background-success-light"> 
           <img alt="portrait1" src="@/assets/portrait1.jpg" width="300" height="400"/>          
         </section>
       </div >
 
-      <div class="info column is-three-quarters">
+      <div class="info column is-three-quarters-desktop is-two-thirds-mobile is-two-third-tablet">
         <section class="section has-background-primary-light is-three-quarters">
           <h3 class="title is-4 has-text-primary-dark">About Me: </h3>
           <p></p>
