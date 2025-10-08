@@ -4,8 +4,7 @@
 
       <div class="images column is-one-quarter ">
         <section class="block m-1 has-background-success-light"> 
-          <img alt="portrait1" src="@/assets/portrait1.jpg" width="300" height="400"/>
-          
+          <img alt="portrait1" src="@/assets/portrait1.jpg" width="300" height="400"/>          
         </section>
       </div >
 
@@ -19,17 +18,13 @@
             Every day, I focus on sharpening my skills and expanding my knowledge to better prepare for real-world challenges. 
             My goal is to create responsive applications and web pages that align seamlessly with user needs.
              </p>
-        </section>     
-      
+        </section>          
       </div>  
-
- 
-                
+             
   </div>
    
   <div class="footer p-2 columns">
     <section class="column"> &#x1F988; Developer in the making &#x1F988; </section>
-
   </div>
 </template>
 
@@ -44,15 +39,11 @@ export default {
 }
 </script>
 <style>
+
 .backdrop {
     width: 100%;
     height: 100%;
     background: rgb(245, 255, 139);
-}
-
-.homepage-contain {
-  display: flex;
-  
 }
 
 .header {
@@ -63,22 +54,17 @@ export default {
 }
 
 .images {
-  flex:1;
+
   padding: 5px;
   background: rgba(10, 87, 45, 0.561);
 }
 
 .info {
-  flex:1;
-  display: block;  
   padding: 5px;
 }
 
 .footer {
   background: rgba(14, 39, 7, 0.562);
   color: white;
-  
-
-
 }
 </style>
