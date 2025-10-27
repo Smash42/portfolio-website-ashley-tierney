@@ -1,5 +1,5 @@
 <template >
-  <h1 class="header title is-1"> &#x1F988; Ashley Tierney Portfolio</h1>
+  <h1 class="header title is-1"> &#x1F988; Ashley Tierney Portfolio </h1>
   <div class="home backdrop homepage-contain columns is-multiline ml-1 mr-1 p-1 ">
 
       <div class="images column is-one-quarter-desktop is-one-third-mobile is-one-third-tablet">
@@ -24,7 +24,7 @@
   </div>
    
   <div class="footer p-2 columns">
-    <section class="column"> &#x1F988; Developer in the making &#x1F988; </section>
+    <section class="column"> &#x1F988;  Developer in the making  &#x1F988; </section>
   </div>
 </template>
 
