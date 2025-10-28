@@ -8,7 +8,7 @@
                 <div class="items">
                 <p>Description: {{ repo.description }}</p>
                 <p>Language: {{ repo.language }}</p>
-                <p>Last Update: {{ repo.updated_at }} </p>
+                <p>Last Update: {{ new Date( repo.updated_at).toLocaleString() }} </p>
                 </div>
             </li>
         </ul>
