@@ -61,6 +61,7 @@ export default {
 
 .info {
   padding: 5px;
+  
 }
 
 .footer {
